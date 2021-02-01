@@ -11,6 +11,7 @@ body_part = input("Enter a body part: ")
 # Concatenate the color and 2nd animal to make the 2nd character's name
 animal2 = color + " " + animal2
 
+# Generates random number between 1 and 10, then creates string based on if it rolled 1 or not
 bites = random.randint(1,10)
 if bites == 1:
     bites = str(bites) + " bite"
