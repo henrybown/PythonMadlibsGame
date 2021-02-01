@@ -3,7 +3,7 @@ import random
 # Take user input, and store it in variables
 name = input("Enter a name: ")
 animal1 = input("Enter an animal: ")
-animal2 = input("Enter an animal: ")
+animal2 = input("Enter a 2nd animal: ")
 city = input("Enter a city: ")
 color = input("Enter a color: ")
 body_part = input("Enter a body part: ")
